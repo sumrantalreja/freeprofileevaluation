@@ -1,8 +1,9 @@
 {
-  "name": "free-profile-evaluation",
+  "name": "lalal",
   "version": "1.0.0",
-  "description": "A web application for evaluating tech career profiles",
+  "description": "A web application for evaluating tech career profiles",                                                                                                                                                                                                            
   "main": "index.js",
+  "engines": { "node": "18.x" },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
